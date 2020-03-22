@@ -40,6 +40,7 @@ galleryPublisher {
     artifactPath = "PATH_TO_YOUR_APK_LOCATION"
 }
 ```
+## [appgallery](https://apkapp.gallery/)
 
 ## Usage
 
